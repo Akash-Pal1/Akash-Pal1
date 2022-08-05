@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akash-Pal1
 - 👀 I’m interested in Sports Analytics and Android Application Development.
-- 🌱 I’m currently learning Android Development and Sports Analytics.
+- 🌱 I’m currently learning Android Development, Tensorflow and Deep Learning.
 - 💞️ I’m looking to work on my skills in both the domain I have mentioned above,
 - 📫 How to reach me - Through LinkedIn - https://www.linkedin.com/in/akash-pal-a7094020a/
 - 📫 Through Twitter - https://twitter.com/apal62214
